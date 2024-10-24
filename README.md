@@ -64,3 +64,13 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+# Preparación
+
+1. Instalar las dependencias
+
+```shell
+forge soldeer install
+```
+
+2. 
